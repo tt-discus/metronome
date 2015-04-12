@@ -38,6 +38,31 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-103",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 1034.0, 152.0, 100.0, 22.0 ],
+					"style" : ""
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-102",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "" ],
+					"patching_rect" : [ 882.0, 36.0, 42.0, 22.0 ],
+					"style" : "",
+					"text" : "router"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-101",
 					"maxclass" : "comment",
 					"numinlets" : 1,
@@ -409,7 +434,7 @@
 					"orientation" : 1,
 					"outlettype" : [ "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 927.5, 305.0, 244.0, 35.0 ],
+					"patching_rect" : [ 882.0, 296.299988, 244.0, 35.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 390.400024, 368.5, 248.0, 23.0 ],
 					"size" : 10.0,
@@ -472,7 +497,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 313.5, 205.5, 20.0, 24.0 ],
+					"patching_rect" : [ 313.5, 200.5, 20.0, 24.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 610.400024, 187.300003, 28.0, 42.0 ],
 					"style" : ""
