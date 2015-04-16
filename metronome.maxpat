@@ -529,7 +529,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 715.799988, 66.200012, 24.0, 24.0 ],
+					"patching_rect" : [ 745.299988, 66.200012, 24.0, 24.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 621.600037, 162.800018, 16.799999, 16.799999 ],
 					"style" : ""
